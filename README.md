@@ -89,7 +89,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) before submitting a p
 - [AI speaker](https://ai-speaker.net/) - Free online text to speech.
   - **Tags**: `Free` `Subscription` `AI` `Voice` `Text-to-Speech`
   - **Pricing**: Free tier, Premium
-
+    
+- [Lyrics To Song AI](https://lyricstosongai.com/) - AI Song Generator Lyrics to Song AI & Music Maker Online.
+  - **Tags**: `Free` `AI lyrics generator` `AI` `lyrics to song AI` `AI music creation`
+  - **Pricing**: Free tier, Premium
+    
 ## Productivity
 
 - [Slax Note](https://note.slax.com) - Your AI-powered voice notes. Turn voice into text in seconds.
